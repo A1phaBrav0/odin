@@ -1,0 +1,19 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.odd {
+    background: rgb(255, 168, 168);
+    font-weight: 400;
+}
+
+#num2 {
+    color: hsl(240, 100%, 50%);
+    font-size: 32px;    
+}
+
+#num4 {
+    background: #80FF80;
+    font-weight: 700;
+    font-size: 22px;
+}
