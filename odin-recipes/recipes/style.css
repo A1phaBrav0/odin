@@ -1,6 +1,6 @@
 img {
     border-radius: 10px;
-    border: solid teal;
+    border: solid teal 5px;
 }
 
 p, li {
