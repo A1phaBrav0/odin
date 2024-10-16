@@ -1,0 +1,19 @@
+html {
+  background-color: #fbfafb;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6rem;
+}
+
+h1,
+h2,
+li::marker {
+  color: teal;
+}
+
+a {
+  color: teal;
+  font-size: larger;
+}

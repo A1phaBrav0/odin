@@ -1,0 +1,9 @@
+img {
+    border-radius: 10px;
+    border: solid teal;
+}
+
+p, li {
+    max-width: 64ch;
+    margin-bottom: 10px;
+}
